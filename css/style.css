@@ -4,7 +4,7 @@ body{
     color:#40514E;
     /* font-family: 'Dancing Script', cursive; */
 }
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 450px) {
     .hero{
         width: 100%;
     }
